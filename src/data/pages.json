@@ -1,0 +1,54 @@
+{
+  "pages": [
+    {
+      "id": "home",
+      "title": "Legal Resources Hub",
+      "path": "/",
+      "content": "Welcome to the Legal Resources Hub, your comprehensive source for legal information and guidance. Our platform provides access to expert legal resources, latest updates in law, and practical guides for common legal situations.",
+      "createdAt": "2023-01-15T08:00:00Z",
+      "modifiedAt": "2023-10-20T14:30:00Z",
+      "metaDescription": "Access comprehensive legal resources, guides, and expert information at Legal Resources Hub. Your trusted source for legal knowledge and guidance.",
+      "status": "published"
+    },
+    {
+      "id": "civil-law",
+      "title": "Civil Law Guide",
+      "path": "/civil-law",
+      "content": "Explore the fundamentals of civil law, including contract disputes, property rights, and personal injury claims. This guide covers essential aspects of civil proceedings, legal documentation, and dispute resolution processes.",
+      "createdAt": "2023-02-20T10:15:00Z",
+      "modifiedAt": "2023-10-18T09:45:00Z",
+      "metaDescription": "Complete guide to civil law covering contracts, property rights, and dispute resolution. Essential information for understanding civil legal proceedings.",
+      "status": "published"
+    },
+    {
+      "id": "business-law",
+      "title": "Business Law Resources",
+      "path": "/business-law",
+      "content": "Comprehensive resources for business law, covering company formation, corporate governance, intellectual property protection, and regulatory compliance. Essential reading for entrepreneurs and business owners.",
+      "createdAt": "2023-03-10T11:30:00Z",
+      "modifiedAt": "2023-10-15T16:20:00Z",
+      "metaDescription": "Business law resources for entrepreneurs covering company formation, governance, and compliance. Expert guidance for business legal matters.",
+      "status": "published"
+    },
+    {
+      "id": "family-law",
+      "title": "Family Law Center",
+      "path": "/family-law",
+      "content": "Navigate family law topics including divorce proceedings, child custody, adoption processes, and marriage laws. Find detailed information about legal rights and responsibilities in family matters.",
+      "createdAt": "2023-04-05T09:20:00Z",
+      "modifiedAt": "2023-10-19T13:15:00Z",
+      "metaDescription": "Family law information covering divorce, custody, adoption, and marriage. Expert resources for understanding family legal matters.",
+      "status": "draft"
+    },
+    {
+      "id": "legal-forms",
+      "title": "Legal Forms & Templates",
+      "path": "/legal-forms",
+      "content": "Access a collection of legal forms and templates for various purposes. Includes contract templates, power of attorney forms, and other essential legal documents with usage guidelines.",
+      "createdAt": "2023-05-12T13:45:00Z",
+      "modifiedAt": "2023-10-17T11:10:00Z",
+      "metaDescription": "Download legal forms and templates with usage guidelines. Access contract templates, power of attorney forms, and other legal documents.",
+      "status": "published"
+    }
+  ]
+}
